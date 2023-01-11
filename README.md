@@ -1,1 +1,1 @@
-# Diebetus_classification_model
+# Diebetes_classification_model
